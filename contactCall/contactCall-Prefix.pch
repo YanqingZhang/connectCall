@@ -1,0 +1,18 @@
+//
+//  contactCall-Prefix.pch
+//  contactCall
+//
+//  Created by 维世投资 on 16/5/16.
+//  Copyright © 2016年 张彦青. All rights reserved.
+//
+
+#ifndef contactCall_Prefix_pch
+
+#define contactCall_Prefix_pch
+
+#import <Availability.h>
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif /* contactCall_Prefix_pch */

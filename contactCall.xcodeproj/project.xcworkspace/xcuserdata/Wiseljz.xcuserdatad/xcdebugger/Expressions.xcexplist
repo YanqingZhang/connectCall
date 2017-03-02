@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController getContectFromSystem]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController keyClick:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "resultArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
